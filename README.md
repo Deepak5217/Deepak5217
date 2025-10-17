@@ -35,6 +35,8 @@ https://github.com/Deepak5217/Student-performance-analyse
 
 https://github.com/Deepak5217/Blinkit-Analyse
 
+https://github.com/Deepak5217/Social-media-Engagement-
+
 ---
 
 <img width="778" height="280" alt="image" src="https://github.com/user-attachments/assets/409e7501-89f9-465c-8f7c-5da8b2995b33" />
